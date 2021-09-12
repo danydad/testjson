@@ -1,0 +1,11 @@
+{
+    "name": "name",
+    "description": "description",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdQtsn2Y5d3GrDKFnvpXorPPqyzramubnwwDQKkLsV6Pz/1.png",
+    "attributes": [
+        {
+            "trait_type": "trait",
+            "value": 100
+        }
+    ]
+}
